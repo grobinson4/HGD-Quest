@@ -1,0 +1,4 @@
+#Mon Jul 27 13:52:47 EDT 2020
+base.0=C\:\\Users\\garobins\\Documents\\RobinsonTech\\XR\\HGD-Quest\\HDG-Quest\\Temp\\gradleOut\\launcher\\build\\intermediates\\transforms\\dexMerger\\release\\0
+path.0=classes.dex
+renamed.0=classes.dex
